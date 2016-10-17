@@ -4,7 +4,7 @@ public class PruebaFactura {
 	private static Scanner entrada;
 
 	//en esta clase estara el main y vamos a crear un objeto de tipo Factura y llamaremos
-	//a sus metodos y atributos para jugar con ellos jajaj :)
+	//a sus metodos y atributos para jugar con ellos jajaj :)otrooooooooooooooooo
 	
 	//primero el main
 	public static void main(String args[])
